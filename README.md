@@ -16,7 +16,7 @@
 
 Instalar as dependecias, recomendo o npm ou pnpm.
 
--- 
+---
 
 Use 2 terminais, um para o Gulp e outro para o shopify
 
