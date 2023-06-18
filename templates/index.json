@@ -38,7 +38,7 @@
         "image": "shopify:\/\/shop_images\/person-in-red-raincoat-admires-a-huge-waterfall.jpg",
         "image_overlay_opacity": 40,
         "image_height": "large",
-        "desktop_content_position": "bottom-center",
+        "desktop_content_position": "middle-left",
         "show_text_box": false,
         "desktop_content_alignment": "center",
         "color_scheme": "inverse",
