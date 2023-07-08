@@ -7,11 +7,10 @@ package-lock.json
 .idea/
 
 # Compiled output and build artifacts
-dist/
-src/
-build/
-*.js
-*.js.map
+# dist/
+# build/
+# *.js
+# *.js.map
 
 # Log files
 *.log
